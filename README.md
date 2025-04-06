@@ -15,8 +15,6 @@ Ez a repó különböző **Java nyelvű tananyagokat, példákat és gyakorlati 
 
 Ez a repó azért készült, hogy segítsen a Java nyelv elsajátításában gyakorlatorientált módon, különösen diákoknak, önálló tanulóknak vagy tanfolyami résztvevőknek.
 
-3. Küldj Pull Requestet
-
 ## 📄 Licenc
 
 Ez a projekt [MIT licenc](LICENSE) alatt érhető el.
